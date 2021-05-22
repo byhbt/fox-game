@@ -1,1 +1,2 @@
-## Please update this file depend on the project needs
+node_modules/
+.DS_Store
