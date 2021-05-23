@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/byhbt/fox-game/issues"
   },
-  "homepage": "https://github.com/byhbt/fox-game#readme"
+  "homepage": "https://github.com/byhbt/fox-game#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
 }
