@@ -1,24 +1,24 @@
 {
-  "name": "fox-game",
+  "name": "foxy",
   "version": "1.0.0",
   "description": "Implement simple HTML Game.",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url='/fox-game'",
+    "build": "parcel build src/index.html --public-url='/foxy'",
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/byhbt/fox-game.git"
+    "url": "git+https://github.com/byhbt/foxy.git"
   },
   "keywords": [],
   "author": "huynhbathanh@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/byhbt/fox-game/issues"
+    "url": "https://github.com/byhbt/foxy/issues"
   },
-  "homepage": "https://github.com/byhbt/fox-game#readme",
+  "homepage": "https://github.com/byhbt/foxy#readme",
   "devDependencies": {
     "eslint": "^7.27.0",
     "eslint-config-prettier": "^8.3.0",
