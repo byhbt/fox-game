@@ -23,5 +23,6 @@ npm run dev
   - Parcel Bundler
 - CI
   - Deploy to Github Pages
+    - Parcel build with [relative path](https://github.com/parcel-bundler/parcel/issues/206)
 - Programming
   - Finite State Machine
