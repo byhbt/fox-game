@@ -26,3 +26,5 @@ npm run dev
     - Parcel build with [relative path](https://github.com/parcel-bundler/parcel/issues/206)
 - Programming
   - Finite State Machine
+
+Reference: https://github.com/btholt/project-files-for-fox-game
