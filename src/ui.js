@@ -9,5 +9,3 @@ export const modSence = function modSence(state) {
 export const togglePoopBag = function (show) {
   document.querySelector(".poop-bag").classList.toggle("hidden", !show);
 };
-
-
